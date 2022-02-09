@@ -1,0 +1,32 @@
+#Employees{
+    margin-top: 50px;
+    background-color: #d7d7d7;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(253, 250, 250, 0.897);
+  padding: 2px 16px;
+  text-align: center;
+  background-color: rgb(78, 155, 78);
+  border: 2px solid white;
+  box-sizing: border-box ;
+  width : 20%;
+  margin: 5px 15px;
+}
+  
+
+
+img{
+    width: 200px;
+    height: 220px;
+    border-radius: 50%;
+}
+.sum{
+    background-color: white;
+}
